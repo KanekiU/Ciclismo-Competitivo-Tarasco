@@ -1,2 +1,2 @@
 # Ciclismo-Competitivo-Tarasco
-Repo de un sitio web para un eqipo de ciclismo (IS)
+Repositorio de un sitio web para un equipo de ciclismo (IS-TeamOF)
