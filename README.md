@@ -1,2 +1,2 @@
 # Ciclismo-Competitivo-Tarasco
-Repo para un sitio web pra un eqipo de ciclismo (IS)
+Repo de un sitio web para un eqipo de ciclismo (IS)
